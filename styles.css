@@ -1,0 +1,68 @@
+h1 {
+    color: greenyellow;
+    -webkit-text-stroke: 5px;
+    -webkit-text-stroke-color: black;
+    font-size: 80px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.star{
+    width:1000px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+h3, #p2{
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+.food{
+    height:50px;
+}
+
+#otherpage {
+    color:black;
+    text-align: right;
+}
+
+#p1 {
+    color:darkgreen
+}
+
+p a {
+    color: turquoise;
+}
+
+.tacos{
+    font-style: italic;
+}
+
+#p3{
+    font-size: 72px;
+}
+
+#p4{
+    font-size: 100px;
+}
+
+html{
+    background-color:yellow;
+    background-image: url("globe.gif");
+    background-size: 75px;
+    border-style:groove;
+    border-color:gold;
+    border-width: 50px;
+}
+
+#p5{
+    color:blue;
+    text-align:center;
+}
