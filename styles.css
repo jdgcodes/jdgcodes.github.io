@@ -1,0 +1,105 @@
+.nav-item a{
+    color:black;
+    font-size: 150%;
+}
+
+.activelink a{
+    color:grey;
+    font-weight: bold;
+}
+
+.toprow{
+    height: 50px;
+}
+
+.jumbotron{
+    text-align:center;
+    color:white;
+    background-image: url("jumbopic.jpg");
+    background-size: cover;
+    min-height:500px;
+    background-attachment: scroll;
+}
+
+.jumbotron h1{
+    line-height: 250px;
+}
+
+.aboutme h2{
+    text-align:left;
+}
+
+.aboutme p a{
+    text-decoration: underline;
+}
+
+.aboutme p{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    font-family: 'Cabin', sans-serif;
+}
+
+.tilerow{
+    padding: 1rem;
+}
+
+.tilecol{
+    position:relative;
+    display:inline-block;
+    height: 100%;
+    width: 50%;
+}
+
+
+.tiletext a{
+    position: absolute;
+    top:85%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    text-align: center;
+    color:white;
+    font-family: 'Cabin', sans-serif;
+    font-size: 300%;
+    text-decoration: underline;
+}
+
+.tileimg{
+    display:block;
+    filter: grayscale(90%);
+}
+
+.workinprogress h3{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+}
+
+.return a{
+    color:grey;
+}
+
+.titlerow h1{
+    color:black;
+    font-family: 'Cabin', sans-serif;
+    font-size: 300%;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.projecttable table{
+    font-family: 'Roboto', sans-serif;
+}
+
+.projecttable{
+    padding: 2rem;
+}
+
+.contact a{
+    color: blue;
+    text-decoration: underline;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    display: block;
+}
