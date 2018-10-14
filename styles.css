@@ -61,7 +61,7 @@ body{
     text-align: center;
     color:white;
     font-family: 'Cabin', sans-serif;
-    font-size: 300%;
+    font-size: 3vw;
     text-decoration: underline;
 }
 
@@ -102,4 +102,11 @@ body{
     font-family: 'Roboto', sans-serif;
     text-align: center;
     display: block;
+}
+
+.meme img{
+    position: relative;         
+    display: inline-block;     
+    left: 50%;                   
+    transform: translate(-50%);
 }
